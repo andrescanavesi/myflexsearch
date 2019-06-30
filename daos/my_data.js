@@ -1,3 +1,6 @@
+/**
+ * Static data used to our index. Source: https://api.publicapis.org/entries
+ */
 module.exports.data = [ { API: 'Cat Facts',
     Description: 'Daily cat facts',
     Auth: '',
