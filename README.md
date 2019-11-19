@@ -7,3 +7,7 @@ This project is a _Proof of Concept_ that uses the module [flexsearch](https://w
 It exposes a web service using Express that allows request like this:
 
 [http://localhost:3000/search?phrase=Cloud](http://localhost:3000/search?phrase=Cloud)
+
+See the step by step here:
+
+[https://javaniceday.com/2019/06/29/full-text-search-in-node-js-search-related-data/](https://javaniceday.com/2019/06/29/full-text-search-in-node-js-search-related-data/)
